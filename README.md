@@ -1,4 +1,4 @@
-### Hola, I am Jitedra Manish Maurya! 👋
+### Hola, I am Jitendra Manish Maurya! 👋
 
 
 Here are some ideas to get you started:
