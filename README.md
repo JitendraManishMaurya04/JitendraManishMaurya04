@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... **I am Half Finnnniiissh.**
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=JitendraManishMaurya04&&show_icons=true&title_color=151515&icon_color=bb2acf&text_color=ffff00&bg_color=ffffff">
+<img src="https://github-readme-stats.vercel.app/api?username=JitendraManishMaurya04&&show_icons=true&title_color=151515&icon_color=bb2acf&text_color=ff0000&bg_color=ffffff">
