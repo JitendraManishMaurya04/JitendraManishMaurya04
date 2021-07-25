@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... **Java Full Stack Project** 
+- 🔭 I’m currently working on ... **Java Full Stack E-Commerce Project** 
 - 🌱 I’m currently learning ... **AWS**
 - 👯 I’m looking to collaborate on ... **Java Full Stack Project**
 - 🤔 I’m looking for help with ...  **AWS**
