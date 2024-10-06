@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JitendraManishMaurya04" alt="JitendraManishMaurya04" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JitendraManishMaurya04&theme=algolia" alt="JitendraManishMaurya04" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JitendraManishMaurya04&theme=matrix" alt="JitendraManishMaurya04" /></a> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JitendraManishMaurya04&row=2&column=5" alt="JitendraManishMaurya04" /></a> </p>
-https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3
+
 - 🔭 I’m currently working on ... **Java Spring Boot Micro-Services** 
 - 🌱 I’m currently learning ... **AI**
 - 👯 I’m looking to collaborate on ... **Java Full Stack Project/Microservices**
