@@ -4,10 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JitendraManishMaurya04&label=Profile%20views&color=0e75b6&style=flat" alt="JitendraManishMaurya04" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JitendraManishMaurya04" alt="JitendraManishMaurya04" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JitendraManishMaurya04&theme=matrix&margin-w=15" alt="JitendraManishMaurya04" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JitendraManishMaurya04&theme=matrix" alt="JitendraManishMaurya04" /></a> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JitendraManishMaurya04&row=2&column=5" alt="JitendraManishMaurya04" /></a> </p>
 
 - 🔭 I’m currently working on ... **Java Spring Boot Micro-Services** 
 - 🌱 I’m currently learning ... **AI**
