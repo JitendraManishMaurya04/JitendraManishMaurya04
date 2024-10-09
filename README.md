@@ -10,7 +10,6 @@
 - 🔭 I’m currently working on ... **Java Spring Boot Micro-Services** 
 - 🌱 I’m currently learning ... **AI**
 - 👯 I’m looking to collaborate on ... **Java Full Stack Project/Microservices**
-- 🤔 I’m looking for help with ...  **Azure/AWS**
 - 💬 Ask me about ... **Tech related**
 - 📫 How to reach me: ... **[linkedin @jitendra-manish](https://www.linkedin.com/in/manish-maurya-softwaredeveloper-506277135)**
 - ⚡ Fun fact: ... **Make learning funny**
