@@ -20,11 +20,10 @@ I am a passionate **Software Engineer** based in Mumbai, India, specializing in 
   <tr>
     <td><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></td>
     <td><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a></td>
-    <td><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a></td>
+    <td><a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="azure" width="40" height="40"/></a></td>
     <td><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a></td>
     <td><a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a></td>
     <td><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a></td>
-    <td><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a></td>
   </tr>
 </table>
 
@@ -32,7 +31,11 @@ I am a passionate **Software Engineer** based in Mumbai, India, specializing in 
 <table border="2">
   <tr>
     <td><a href="https://spring.io/projects/spring-ai/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springAi" width="40" height="40"/></a></td>
-    <td><a href="https://aistudio.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_ai.svg" alt="springAi" width="40" height="40"/></a></td>
+    <td><a href="https://aistudio.google.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Google_AI_logo.svg" alt="googleAi" width="40" height="40"/></a></td>
+    <td><a href="https://platform.openai.com/" target="_blank" rel="noreferrer"><img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/openai-black.svg" alt="openAi" width="40" height="40"/></a></td>
+  <td><a href="https://claude.com/product/overview/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" alt="claude" width="40" height="40"/></a></td>
+  <td><a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/LangChain_Logo.svg" alt="langChain" width="40" height="40"/></a></td>
+
   </tr>
 </table>
 
@@ -51,11 +54,11 @@ I am a passionate **Software Engineer** based in Mumbai, India, specializing in 
 #### **Databases**
 <table border="2">
   <tr>
-   <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a></td>
    <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
    <td><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a></td>
    <td><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a></td>
-   <td><a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a></td>
+   <td><a href="https://azure.microsoft.com/en-us/products/cosmos-db" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Azure_Cosmos_DB.svg" alt="oracle" width="40" height="40"/></a></td>
+    <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a></td>
 </tr>
 </table>
 
