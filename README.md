@@ -28,6 +28,14 @@ I am a passionate **Software Engineer** based in Mumbai, India, specializing in 
   </tr>
 </table>
 
+#### **AI & Tools**
+<table border="2">
+  <tr>
+    <td><a href="https://spring.io/projects/spring-ai/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springAi" width="40" height="40"/></a></td>
+    <td><a href="https://aistudio.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_ai.svg" alt="springAi" width="40" height="40"/></a></td>
+  </tr>
+</table>
+
 #### **Frontend**
 <table border="2">
   <tr>
