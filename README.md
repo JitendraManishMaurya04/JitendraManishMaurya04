@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manish Maurya</h1>
 <h3 align="center">A passionate Software Engineer from Mumbai living in India</h3> 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JitendraManishMaurya04&label=Profile%20views&color=0e75b6&style=flat" alt="JitendraManishMaurya04" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JitendraManishMaurya04&theme=matrix&margin-w=18&title=-Reviews" alt="JitendraManishMaurya04" /></a> </p>
-
----
-
 ### 🚀 About Me
 
 I am a passionate **Software Engineer** based in Mumbai, India, specializing in building scalable enterprise applications. Currently, I'm diving deep into the world of AI-integrated backend systems.
